@@ -1,0 +1,19 @@
+[Campaign]
+Difficulty=0
+DifficultyClears=85,1349,0,0,0,0,0,0,0
+HasProgress=1
+Human=-3746994889972251649
+HumanEx=576460752303423488
+NightElf=576460752303423488
+NightElfEx=5188146770730811392
+Orc=576460752303423488
+OrcEx=576460752303423488
+ShowScreen=1
+Tutorial=-3746994889972252641
+TutorialCleared=0
+Undead=576460752303423488
+UndeadEx=576460752303423488
+
+[NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
+Magic=-549620492
+

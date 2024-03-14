@@ -1,0 +1,99 @@
+2/3 20:33:19.635  CWorldEditApp::StartUp
+2/3 20:33:19.635  Command Line: "G:\Games\Warcraft III Reforged\_retail_\x86_64\World Editor.exe" -launch -uid w3
+2/3 20:33:21.545  prism: Info: name: Radeon RX 580 Series
+2/3 20:33:21.545  prism: Info: driverVersion: 0x00000000040a0006
+2/3 20:33:21.545  prism: Info: vendorId: AMD
+2/3 20:33:21.545  prism: Info: deviceId: 0x67df
+2/3 20:33:21.545  prism: Info: subsystemVendorId: 0x1682
+2/3 20:33:21.545  prism: Info: subsystemId: 0xc580
+2/3 20:33:21.545  prism: Info: revisionId: 0xe7
+2/3 20:33:21.545  prism: Info: type: Discrete
+2/3 20:33:21.545  prism: Info: luid: 000000000000e688
+2/3 20:33:21.545  prism: Info: index: 0
+2/3 20:33:21.545  prism: Info: api: Dx11
+2/3 20:33:21.545  prism: Info: vendorId: AMD
+2/3 20:33:21.545  prism: Info: deviceId: 0x67df
+2/3 20:33:21.545  prism: Info: amd.family: GCN3
+2/3 20:33:21.545  prism: Info: amd.numCUs: 0
+2/3 20:33:21.545  prism: Info: amd.numWGPs: 0
+2/3 20:33:21.545  prism: Info: amd.numROPs: 0
+2/3 20:33:21.545  prism: Info: amd.coreClock: 0 MHz
+2/3 20:33:21.545  prism: Info: amd.memoryClock: 0 MHz
+2/3 20:33:21.545  prism: Info: amd.memoryBandwidth: 0 MB/s
+2/3 20:33:21.545  prism: Info: amd.teraFlops: 0
+2/3 20:33:21.545  prism: Info: amd.driverVersion: Unknown
+2/3 20:33:21.545  prism: Info: amd.radeonSoftwareVersion: Unknown
+2/3 20:33:21.545  prism: Info: windowsVersion: 10
+2/3 20:33:21.545  prism: Info: windowsBuildNumber: 18363
+2/3 20:33:21.545  prism: Info: dxFeatureLevel: 11.1
+2/3 20:33:21.545  prism: Info: typedUavLoadAdditionalFormats: 1
+2/3 20:33:21.545  prism: Info: preferredShaderModel: Dx50
+2/3 20:33:21.545  prism: Info: supportedShaderModels:
+2/3 20:33:21.545  prism: Info:   Dx40Level91
+2/3 20:33:21.545  prism: Info:   Dx40Level93
+2/3 20:33:21.545  prism: Info:   Dx40
+2/3 20:33:21.545  prism: Info:   Dx41
+2/3 20:33:21.545  prism: Info:   Dx50
+2/3 20:33:21.545  prism: Info: maxBufferSize: 2141192192
+2/3 20:33:21.545  prism: Info: max1dTextureSize: 16384
+2/3 20:33:21.545  prism: Info: max2dTextureSize: 16384
+2/3 20:33:21.545  prism: Info: maxCubeTextureSize: 16384
+2/3 20:33:21.545  prism: Info: max3dTextureSize: 2048
+2/3 20:33:21.545  prism: Info: maxArrayLayers: 2048
+2/3 20:33:21.545  prism: Info: maxConstantBufferRange: 65536
+2/3 20:33:21.545  prism: Info: maxTypedBufferRange: 2141192192
+2/3 20:33:21.545  prism: Info: maxStructuredBufferRange: 2141192192
+2/3 20:33:21.545  prism: Info: constantBufferOffsetAlign: 256
+2/3 20:33:21.545  prism: Info: typedBufferOffsetAlign: 16
+2/3 20:33:21.545  prism: Info: structuredBufferOffsetAlign: 16
+2/3 20:33:21.545  prism: Info: drawIndirectArgsAlign: 4
+2/3 20:33:21.545  prism: Info: dispatchIndirectArgsAlign: 4
+2/3 20:33:21.545  prism: Info: bufferTextureCopyRowPitchAlign: 256
+2/3 20:33:21.545  prism: Info: bufferTextureCopyOffsetAlign: 1024
+2/3 20:33:21.545  prism: Info: maxAnisotropy: 16
+2/3 20:33:21.545  prism: Info: maxColorAttachments: 8
+2/3 20:33:21.545  prism: Info: maxVertexShaderAttributes: 32
+2/3 20:33:21.545  prism: Info: maxViewportExtent: 65535x65535
+2/3 20:33:21.545  prism: Info: minViewportBounds: -32768
+2/3 20:33:21.545  prism: Info: maxViewportBounds: 32767
+2/3 20:33:21.545  prism: Info: minLodBias: -16
+2/3 20:33:21.545  prism: Info: maxLodBias: 15.99
+2/3 20:33:21.545  prism: Info: maxLodSnap: 0
+2/3 20:33:21.545  prism: Info: shaderRWTier: 5
+2/3 20:33:21.545  prism: Info: resourceBindingTier: 0
+2/3 20:33:21.545  prism: Info: resourceHeapTier: 0
+2/3 20:33:21.545  prism: Info: raytracingTier: 0
+2/3 20:33:21.545  prism: Info: minMaxFilterOps: 1
+2/3 20:33:21.545  prism: Info: mirrorOnce: 1
+2/3 20:33:21.545  prism: Info: borderColor: 1
+2/3 20:33:21.545  prism: Info: minLod: 1
+2/3 20:33:21.545  prism: Info: maxLod: 1
+2/3 20:33:21.545  prism: Info: fractionalMinLod: 1
+2/3 20:33:21.545  prism: Info: lodBias: 1
+2/3 20:33:21.545  prism: Info: dualSrcBlend: 1
+2/3 20:33:21.545  prism: Info: separateAlphaBlend: 1
+2/3 20:33:21.545  prism: Info: alphaToCoverage: 1
+2/3 20:33:21.545  prism: Info: independentBlend: 1
+2/3 20:33:21.545  prism: Info: wireframe: 1
+2/3 20:33:21.545  prism: Info: depthBiasClamp: 1
+2/3 20:33:21.545  prism: Info: depthClamp: 1
+2/3 20:33:21.545  prism: Info: depthBoundsTest: 0
+2/3 20:33:21.545  prism: Info: geometryShader: 1
+2/3 20:33:21.545  prism: Info: tessellationShader: 1
+2/3 20:33:21.545  prism: Info: computeShader: 1
+2/3 20:33:21.545  prism: Info: programmableSamplePositions: 0
+2/3 20:33:21.545  prism: Info: instancing: 1
+2/3 20:33:21.545  prism: Info: baseVertex: 1
+2/3 20:33:21.545  prism: Info: baseInstance: 1
+2/3 20:33:21.545  prism: Info: drawIndirect: 1
+2/3 20:33:21.545  prism: Info: drawIndirectBaseInstance: 1
+2/3 20:33:21.545  prism: Info: deviceLocalConstantBufferOffsets: 1
+2/3 20:33:21.545  prism: Info: occlusionQueries: 1
+2/3 20:33:21.545  prism: Info: countingOcclusionQueries: 1
+2/3 20:33:21.545  prism: Info: rasterOrderViews: 0
+2/3 20:33:21.545  prism: Info: exclusiveFullscreen: 1
+2/3 20:33:21.545  prism: Info: uma: 0
+2/3 20:33:22.119  Error (UI\FrameDef\UI\CommandBar.fdf:66): Expected ",", but found "}"
+2/3 20:33:44.514  Opening map - 
+2/3 20:33:44.807  SysMsg:  
+2/3 20:33:48.394  CWorldEditApp::ShutDown
