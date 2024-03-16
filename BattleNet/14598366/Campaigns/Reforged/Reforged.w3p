@@ -1,8 +1,8 @@
 [Campaign]
-Difficulty=0
-DifficultyClears=85,263493,0,0,0,0,0,0,0
+Difficulty=1
+DifficultyClears=85,1312069,0,0,0,0,0,0,0
 HasProgress=1
-Human=-3746994889972250625
+Human=-3746994889972248577
 HumanEx=576460752303423488
 NightElf=576460752303423488
 NightElfEx=5188146770730811392
@@ -15,5 +15,5 @@ Undead=576460752303423488
 UndeadEx=576460752303423488
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=1182915013
+Magic=-1366719002
 

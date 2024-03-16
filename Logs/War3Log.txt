@@ -1,181 +1,184 @@
-3/14 23:24:28.834  GameMain Started
-3/14 23:24:28.834  Command Line: "_retail_\x86_64\Warcraft III.exe" -launch
-3/14 23:24:28.834  Current Directory: "D:\Games\Warcraft III Reforged\_retail_"
-3/14 23:24:29.998  prism: Info: name: NVIDIA GeForce GTX 1650
-3/14 23:24:29.998  prism: Info: driverVersion: 0x00000000000f1212
-3/14 23:24:29.998  prism: Info: vendorId: NVidia
-3/14 23:24:29.998  prism: Info: deviceId: 0x1f9d
-3/14 23:24:29.998  prism: Info: subsystemVendorId: 0x103c
-3/14 23:24:29.998  prism: Info: subsystemId: 0x88fa
-3/14 23:24:29.998  prism: Info: revisionId: 0xa1
-3/14 23:24:29.998  prism: Info: type: Discrete
-3/14 23:24:29.998  prism: Info: luid: 000000000001425d
-3/14 23:24:29.998  prism: Info: index: 0
-3/14 23:24:29.998  prism: Info: api: Dx11
-3/14 23:24:29.998  prism: Info: vendorId: NVidia
-3/14 23:24:29.998  prism: Info: deviceId: 0x1f9d
-3/14 23:24:29.998  prism: Info: nvidia.family: Turing
-3/14 23:24:29.998  prism: Info: nvidia.driverVersion: 546.26
-3/14 23:24:29.998  prism: Info: windowsVersion: 10
-3/14 23:24:29.998  prism: Info: windowsBuildNumber: 22631
-3/14 23:24:29.998  prism: Info: dxFeatureLevel: 11.1
-3/14 23:24:29.998  prism: Info: typedUavLoadAdditionalFormats: 1
-3/14 23:24:29.998  prism: Info: preferredShaderModel: Dx50
-3/14 23:24:29.998  prism: Info: supportedShaderModels:
-3/14 23:24:29.998  prism: Info:   Dx40Level91
-3/14 23:24:29.998  prism: Info:   Dx40Level93
-3/14 23:24:29.998  prism: Info:   Dx40
-3/14 23:24:29.998  prism: Info:   Dx41
-3/14 23:24:29.998  prism: Info:   Dx50
-3/14 23:24:29.998  prism: Info: maxBufferSize: 1034944512
-3/14 23:24:29.998  prism: Info: max1dTextureSize: 16384
-3/14 23:24:29.998  prism: Info: max2dTextureSize: 16384
-3/14 23:24:29.998  prism: Info: maxCubeTextureSize: 16384
-3/14 23:24:29.998  prism: Info: max3dTextureSize: 2048
-3/14 23:24:29.998  prism: Info: maxArrayLayers: 2048
-3/14 23:24:29.998  prism: Info: maxConstantBufferRange: 65536
-3/14 23:24:29.998  prism: Info: maxTypedBufferRange: 1034944512
-3/14 23:24:29.998  prism: Info: maxStructuredBufferRange: 1034944512
-3/14 23:24:29.998  prism: Info: constantBufferOffsetAlign: 256
-3/14 23:24:29.998  prism: Info: typedBufferOffsetAlign: 16
-3/14 23:24:29.998  prism: Info: structuredBufferOffsetAlign: 16
-3/14 23:24:29.998  prism: Info: drawIndirectArgsAlign: 4
-3/14 23:24:29.998  prism: Info: dispatchIndirectArgsAlign: 4
-3/14 23:24:29.998  prism: Info: bufferTextureCopyRowPitchAlign: 256
-3/14 23:24:29.998  prism: Info: bufferTextureCopyOffsetAlign: 1024
-3/14 23:24:29.998  prism: Info: maxAnisotropy: 16
-3/14 23:24:29.998  prism: Info: maxColorAttachments: 8
-3/14 23:24:29.998  prism: Info: maxVertexShaderAttributes: 32
-3/14 23:24:29.998  prism: Info: maxViewportExtent: 65535x65535
-3/14 23:24:29.998  prism: Info: minViewportBounds: -32768
-3/14 23:24:29.998  prism: Info: maxViewportBounds: 32767
-3/14 23:24:29.998  prism: Info: minLodBias: -16
-3/14 23:24:29.998  prism: Info: maxLodBias: 15.99
-3/14 23:24:29.998  prism: Info: maxLodSnap: 0
-3/14 23:24:29.998  prism: Info: shaderRWTier: 5
-3/14 23:24:29.998  prism: Info: resourceBindingTier: 0
-3/14 23:24:29.998  prism: Info: resourceHeapTier: 0
-3/14 23:24:29.998  prism: Info: raytracingTier: 0
-3/14 23:24:29.998  prism: Info: minMaxFilterOps: 1
-3/14 23:24:29.998  prism: Info: mirrorOnce: 1
-3/14 23:24:29.998  prism: Info: borderColor: 1
-3/14 23:24:29.998  prism: Info: minLod: 1
-3/14 23:24:29.998  prism: Info: maxLod: 1
-3/14 23:24:29.998  prism: Info: fractionalMinLod: 1
-3/14 23:24:29.998  prism: Info: lodBias: 1
-3/14 23:24:29.998  prism: Info: dualSrcBlend: 1
-3/14 23:24:29.998  prism: Info: separateAlphaBlend: 1
-3/14 23:24:29.998  prism: Info: alphaToCoverage: 1
-3/14 23:24:29.998  prism: Info: independentBlend: 1
-3/14 23:24:29.998  prism: Info: wireframe: 1
-3/14 23:24:29.998  prism: Info: depthBiasClamp: 1
-3/14 23:24:29.998  prism: Info: depthClamp: 1
-3/14 23:24:29.998  prism: Info: depthBoundsTest: 1
-3/14 23:24:29.998  prism: Info: geometryShader: 1
-3/14 23:24:29.998  prism: Info: tessellationShader: 1
-3/14 23:24:29.998  prism: Info: computeShader: 1
-3/14 23:24:29.998  prism: Info: programmableSamplePositions: 0
-3/14 23:24:29.998  prism: Info: instancing: 1
-3/14 23:24:29.998  prism: Info: baseVertex: 1
-3/14 23:24:29.998  prism: Info: baseInstance: 1
-3/14 23:24:29.998  prism: Info: drawIndirect: 1
-3/14 23:24:29.998  prism: Info: drawIndirectBaseInstance: 1
-3/14 23:24:29.998  prism: Info: deviceLocalConstantBufferOffsets: 1
-3/14 23:24:29.998  prism: Info: occlusionQueries: 1
-3/14 23:24:29.998  prism: Info: countingOcclusionQueries: 1
-3/14 23:24:29.998  prism: Info: rasterOrderViews: 1
-3/14 23:24:29.998  prism: Info: exclusiveFullscreen: 1
-3/14 23:24:29.998  prism: Info: uma: 0
-3/14 23:24:30.203  Searching for display mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 40 }, err: 6620478
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 60 }, err: 6619198
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 40 }, err: 4982078
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 60 }, err: 4980798
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 40 }, err: 4064574
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 60 }, err: 4063294
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 600, bpp: 32, refreshrate: 40 }, err: 4654398
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 600, bpp: 32, refreshrate: 60 }, err: 4653118
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 40 }, err: 4130110
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 60 }, err: 4128830
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 768, bpp: 32, refreshrate: 40 }, err: 3933502
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 768, bpp: 32, refreshrate: 60 }, err: 3932222
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 800, bpp: 32, refreshrate: 40 }, err: 3802430
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 800, bpp: 32, refreshrate: 60 }, err: 3801150
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 960, bpp: 32, refreshrate: 40 }, err: 3147070
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1280, height: 960, bpp: 32, refreshrate: 60 }, err: 3145790
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1360, height: 768, bpp: 32, refreshrate: 40 }, err: 3605822
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1360, height: 768, bpp: 32, refreshrate: 60 }, err: 3604542
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1366, height: 768, bpp: 32, refreshrate: 40 }, err: 3605822
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1366, height: 768, bpp: 32, refreshrate: 60 }, err: 3604542
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1400, height: 1050, bpp: 32, refreshrate: 40 }, err: 2295102
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1400, height: 1050, bpp: 32, refreshrate: 60 }, err: 2293822
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1440, height: 900, bpp: 32, refreshrate: 40 }, err: 2753854
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1440, height: 900, bpp: 32, refreshrate: 60 }, err: 2752574
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1600, height: 900, bpp: 32, refreshrate: 40 }, err: 2098494
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1600, height: 900, bpp: 32, refreshrate: 60 }, err: 2097214
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 40 }, err: 1115454
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 60 }, err: 1114174
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 40 }, err: 1342
-3/14 23:24:30.213  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }, err: 62
-3/14 23:24:30.441  Error (UI\FrameDef\UI\CommandBar.fdf:66): Expected ",", but found "}"
-3/14 23:24:31.500  Opening map - Maps/(10)dustwallowkeys.w3m
-3/14 23:24:31.502  Opening map - Maps/(12)divideandconquer.w3m
-3/14 23:24:31.502  Opening map - Maps/(12)icecrown.w3m
-3/14 23:24:31.502  Opening map - Maps/(2)bootybay.w3m
-3/14 23:24:31.502  Opening map - Maps/(2)harrow.w3m
-3/14 23:24:31.502  Opening map - Maps/(2)hillsofglory.w3m
-3/14 23:24:31.502  Opening map - Maps/(2)ogremound.w3m
-3/14 23:24:31.502  Opening map - Maps/(2)plunderisle.w3m
-3/14 23:24:31.502  Opening map - Maps/(3)forestwalk.w3m
-3/14 23:24:31.502  Opening map - Maps/(3)isleofdread.w3m
-3/14 23:24:31.502  Opening map - Maps/(3)nighthaven.w3m
-3/14 23:24:31.502  Opening map - Maps/(4)adrenaline.w3m
-3/14 23:24:31.502  Opening map - Maps/(4)borderlands.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)deadlock.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)deadwaterdrop.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)dragonmountain.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)duskwood.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)frostsabre.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)harvestmoon.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)hearttoheart.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)legends.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)losttemple.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)mysticisles.w3m
-3/14 23:24:31.516  Opening map - Maps/(4)tranquilpaths.w3m
-3/14 23:24:31.532  Opening map - Maps/(5)theglaive.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)darkforest.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)dragonfire.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)drywatergulch.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)gnollwood.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)moonglade.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)scorchedbasin.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)stromguarde.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)swampofsorrows.w3m
-3/14 23:24:31.532  Opening map - Maps/(6)timbermawhold.w3m
-3/14 23:24:31.532  Opening map - Maps/(8)battleground.w3m
-3/14 23:24:31.532  Opening map - Maps/(8)blastedlands.w3m
-3/14 23:24:31.532  Opening map - Maps/(8)bloodvenomfalls.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)gardenofwar.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)golemsinthemist.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)petrifiedforest.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)plaguelands.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)plainsofsnow.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)richmansgarden.w3m
-3/14 23:24:31.547  Opening map - Maps/(8)thecrucible.w3m
-3/14 23:24:31.547  Opening map - Maps/(9)riverrun.w3m
-3/14 23:24:31.651  Activating WebUI
-3/14 23:24:36.978  Activating WebUI
-3/14 23:25:05.343  Activating WebUI
-3/14 23:25:05.960  Activating WebUI
-3/14 23:25:18.205  Opening map - Campaign/Reforged/ROC/Human08.w3x
-3/14 23:25:18.493  Opening map - Campaign/Reforged/ROC/Human08.w3x
-3/14 23:25:18.613  Activating WebUI
-3/14 23:25:18.713  Activating WebUI
-3/14 23:25:18.721  Opening map - Campaign/Reforged/ROC/Human08.w3x
-3/14 23:25:40.063  Deactivating WebUI
-3/14 23:25:40.088  Deactivating WebUI
-3/14 23:26:10.111  Web UI is trying to show when the Game UI is active
-3/14 23:26:10.111  Deactivating WebUI
-3/14 23:26:10.111  Web UI is trying to show when the Game UI is active
-3/14 23:26:10.111  Deactivating WebUI
-3/14 23:27:59.249  GameMain Ended
+3/16 15:14:15.870  GameMain Started
+3/16 15:14:15.870  Command Line: "_retail_\x86_64\Warcraft III.exe" -launch
+3/16 15:14:15.870  Current Directory: "D:\Games\Warcraft III Reforged\_retail_"
+3/16 15:14:16.883  prism: Info: name: Radeon RX 580 Series
+3/16 15:14:16.883  prism: Info: driverVersion: 0x000000002efb2329
+3/16 15:14:16.883  prism: Info: vendorId: AMD
+3/16 15:14:16.883  prism: Info: deviceId: 0x67df
+3/16 15:14:16.883  prism: Info: subsystemVendorId: 0x1682
+3/16 15:14:16.883  prism: Info: subsystemId: 0xc580
+3/16 15:14:16.883  prism: Info: revisionId: 0xe7
+3/16 15:14:16.883  prism: Info: type: Discrete
+3/16 15:14:16.883  prism: Info: luid: 000000000000d19b
+3/16 15:14:16.883  prism: Info: index: 0
+3/16 15:14:16.883  prism: Info: api: Dx11
+3/16 15:14:16.883  prism: Info: vendorId: AMD
+3/16 15:14:16.883  prism: Info: deviceId: 0x67df
+3/16 15:14:16.883  prism: Info: amd.family: GCN3
+3/16 15:14:16.883  prism: Info: amd.numCUs: 0
+3/16 15:14:16.883  prism: Info: amd.numWGPs: 0
+3/16 15:14:16.883  prism: Info: amd.numROPs: 0
+3/16 15:14:16.883  prism: Info: amd.coreClock: 0 MHz
+3/16 15:14:16.883  prism: Info: amd.memoryClock: 0 MHz
+3/16 15:14:16.883  prism: Info: amd.memoryBandwidth: 0 MB/s
+3/16 15:14:16.883  prism: Info: amd.teraFlops: 0
+3/16 15:14:16.883  prism: Info: amd.driverVersion: Unknown
+3/16 15:14:16.883  prism: Info: amd.radeonSoftwareVersion: Unknown
+3/16 15:14:16.883  prism: Info: windowsVersion: 10
+3/16 15:14:16.883  prism: Info: windowsBuildNumber: 19045
+3/16 15:14:16.883  prism: Info: dxFeatureLevel: 11.1
+3/16 15:14:16.883  prism: Info: typedUavLoadAdditionalFormats: 1
+3/16 15:14:16.883  prism: Info: preferredShaderModel: Dx50
+3/16 15:14:16.883  prism: Info: supportedShaderModels:
+3/16 15:14:16.883  prism: Info:   Dx40Level91
+3/16 15:14:16.883  prism: Info:   Dx40Level93
+3/16 15:14:16.883  prism: Info:   Dx40
+3/16 15:14:16.883  prism: Info:   Dx41
+3/16 15:14:16.883  prism: Info:   Dx50
+3/16 15:14:16.883  prism: Info: maxBufferSize: 2141192192
+3/16 15:14:16.883  prism: Info: max1dTextureSize: 16384
+3/16 15:14:16.883  prism: Info: max2dTextureSize: 16384
+3/16 15:14:16.883  prism: Info: maxCubeTextureSize: 16384
+3/16 15:14:16.883  prism: Info: max3dTextureSize: 2048
+3/16 15:14:16.883  prism: Info: maxArrayLayers: 2048
+3/16 15:14:16.883  prism: Info: maxConstantBufferRange: 65536
+3/16 15:14:16.883  prism: Info: maxTypedBufferRange: 2141192192
+3/16 15:14:16.883  prism: Info: maxStructuredBufferRange: 2141192192
+3/16 15:14:16.883  prism: Info: constantBufferOffsetAlign: 256
+3/16 15:14:16.883  prism: Info: typedBufferOffsetAlign: 16
+3/16 15:14:16.883  prism: Info: structuredBufferOffsetAlign: 16
+3/16 15:14:16.883  prism: Info: drawIndirectArgsAlign: 4
+3/16 15:14:16.883  prism: Info: dispatchIndirectArgsAlign: 4
+3/16 15:14:16.883  prism: Info: bufferTextureCopyRowPitchAlign: 256
+3/16 15:14:16.883  prism: Info: bufferTextureCopyOffsetAlign: 1024
+3/16 15:14:16.883  prism: Info: maxAnisotropy: 16
+3/16 15:14:16.883  prism: Info: maxColorAttachments: 8
+3/16 15:14:16.883  prism: Info: maxVertexShaderAttributes: 32
+3/16 15:14:16.883  prism: Info: maxViewportExtent: 65535x65535
+3/16 15:14:16.883  prism: Info: minViewportBounds: -32768
+3/16 15:14:16.883  prism: Info: maxViewportBounds: 32767
+3/16 15:14:16.883  prism: Info: minLodBias: -16
+3/16 15:14:16.883  prism: Info: maxLodBias: 15.99
+3/16 15:14:16.883  prism: Info: maxLodSnap: 0
+3/16 15:14:16.883  prism: Info: shaderRWTier: 5
+3/16 15:14:16.883  prism: Info: resourceBindingTier: 0
+3/16 15:14:16.883  prism: Info: resourceHeapTier: 0
+3/16 15:14:16.883  prism: Info: raytracingTier: 0
+3/16 15:14:16.883  prism: Info: minMaxFilterOps: 1
+3/16 15:14:16.883  prism: Info: mirrorOnce: 1
+3/16 15:14:16.883  prism: Info: borderColor: 1
+3/16 15:14:16.883  prism: Info: minLod: 1
+3/16 15:14:16.883  prism: Info: maxLod: 1
+3/16 15:14:16.883  prism: Info: fractionalMinLod: 1
+3/16 15:14:16.883  prism: Info: lodBias: 1
+3/16 15:14:16.883  prism: Info: dualSrcBlend: 1
+3/16 15:14:16.883  prism: Info: separateAlphaBlend: 1
+3/16 15:14:16.883  prism: Info: alphaToCoverage: 1
+3/16 15:14:16.883  prism: Info: independentBlend: 1
+3/16 15:14:16.883  prism: Info: wireframe: 1
+3/16 15:14:16.883  prism: Info: depthBiasClamp: 1
+3/16 15:14:16.883  prism: Info: depthClamp: 1
+3/16 15:14:16.883  prism: Info: depthBoundsTest: 0
+3/16 15:14:16.883  prism: Info: geometryShader: 1
+3/16 15:14:16.883  prism: Info: tessellationShader: 1
+3/16 15:14:16.883  prism: Info: computeShader: 1
+3/16 15:14:16.883  prism: Info: programmableSamplePositions: 0
+3/16 15:14:16.883  prism: Info: instancing: 1
+3/16 15:14:16.883  prism: Info: baseVertex: 1
+3/16 15:14:16.883  prism: Info: baseInstance: 1
+3/16 15:14:16.883  prism: Info: drawIndirect: 1
+3/16 15:14:16.883  prism: Info: drawIndirectBaseInstance: 1
+3/16 15:14:16.883  prism: Info: deviceLocalConstantBufferOffsets: 1
+3/16 15:14:16.883  prism: Info: occlusionQueries: 1
+3/16 15:14:16.883  prism: Info: countingOcclusionQueries: 1
+3/16 15:14:16.883  prism: Info: rasterOrderViews: 0
+3/16 15:14:16.883  prism: Info: exclusiveFullscreen: 1
+3/16 15:14:16.883  prism: Info: uma: 0
+3/16 15:14:17.097  Searching for display mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 60 }, err: 6619198
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 75 }, err: 6620158
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 60 }, err: 4980798
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 75 }, err: 4981758
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1128, height: 634, bpp: 32, refreshrate: 60 }, err: 5111870
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1128, height: 634, bpp: 32, refreshrate: 75 }, err: 5112830
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 60 }, err: 4063294
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 75 }, err: 4064254
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 50 }, err: 4129470
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 60 }, err: 4128830
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1366, height: 768, bpp: 32, refreshrate: 60 }, err: 3604542
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1600, height: 900, bpp: 32, refreshrate: 60 }, err: 2097214
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 50 }, err: 1114814
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 60 }, err: 1114174
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1760, height: 990, bpp: 32, refreshrate: 50 }, err: 1049278
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1760, height: 990, bpp: 32, refreshrate: 60 }, err: 1048638
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 25 }, err: 2302
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 30 }, err: 1982
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 50 }, err: 702
+3/16 15:14:17.108  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }, err: 62
+3/16 15:14:18.310  Error (UI\FrameDef\UI\CommandBar.fdf:66): Expected ",", but found "}"
+3/16 15:14:19.276  Opening map - Maps/(10)dustwallowkeys.w3m
+3/16 15:14:19.276  Opening map - Maps/(12)divideandconquer.w3m
+3/16 15:14:19.276  Opening map - Maps/(12)icecrown.w3m
+3/16 15:14:19.276  Opening map - Maps/(2)bootybay.w3m
+3/16 15:14:19.276  Opening map - Maps/(2)harrow.w3m
+3/16 15:14:19.276  Opening map - Maps/(2)hillsofglory.w3m
+3/16 15:14:19.276  Opening map - Maps/(2)ogremound.w3m
+3/16 15:14:19.276  Opening map - Maps/(2)plunderisle.w3m
+3/16 15:14:19.276  Opening map - Maps/(3)forestwalk.w3m
+3/16 15:14:19.276  Opening map - Maps/(3)isleofdread.w3m
+3/16 15:14:19.276  Opening map - Maps/(3)nighthaven.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)adrenaline.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)borderlands.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)deadlock.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)deadwaterdrop.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)dragonmountain.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)duskwood.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)frostsabre.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)harvestmoon.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)hearttoheart.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)legends.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)losttemple.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)mysticisles.w3m
+3/16 15:14:19.291  Opening map - Maps/(4)tranquilpaths.w3m
+3/16 15:14:19.308  Opening map - Maps/(5)theglaive.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)darkforest.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)dragonfire.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)drywatergulch.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)gnollwood.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)moonglade.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)scorchedbasin.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)stromguarde.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)swampofsorrows.w3m
+3/16 15:14:19.308  Opening map - Maps/(6)timbermawhold.w3m
+3/16 15:14:19.308  Opening map - Maps/(8)battleground.w3m
+3/16 15:14:19.308  Opening map - Maps/(8)blastedlands.w3m
+3/16 15:14:19.308  Opening map - Maps/(8)bloodvenomfalls.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)gardenofwar.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)golemsinthemist.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)petrifiedforest.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)plaguelands.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)plainsofsnow.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)richmansgarden.w3m
+3/16 15:14:19.323  Opening map - Maps/(8)thecrucible.w3m
+3/16 15:14:19.323  Opening map - Maps/(9)riverrun.w3m
+3/16 15:14:19.408  Activating WebUI
+3/16 15:14:24.104  Activating WebUI
+3/16 15:15:57.256  Activating WebUI
+3/16 15:15:57.277  Activating WebUI
+3/16 15:16:31.107  Activating WebUI
+3/16 15:16:31.728  Activating WebUI
+3/16 15:56:50.479  Opening map - Campaign/Reforged/ROC/Human08.w3x
+3/16 15:56:50.774  Opening map - Campaign/Reforged/ROC/Human08.w3x
+3/16 15:56:50.906  Activating WebUI
+3/16 15:56:50.976  Activating WebUI
+3/16 15:56:50.984  Opening map - Campaign/Reforged/ROC/Human08.w3x
+3/16 15:57:05.091  Deactivating WebUI
+3/16 15:57:05.133  Deactivating WebUI
+3/16 15:57:20.359  Opening map - Campaign/Reforged/ROC/Human08.w3x
+3/16 15:57:20.431  Activating WebUI
+3/16 15:57:20.431  Opening map - Campaign/Reforged/ROC/Human08.w3x
+3/16 15:57:30.018  Deactivating WebUI
+3/16 15:57:30.072  Deactivating WebUI
+3/16 16:07:47.558  Activating WebUI
+3/16 16:07:47.558  Activating WebUI
+3/16 16:08:11.009  GameMain Ended
