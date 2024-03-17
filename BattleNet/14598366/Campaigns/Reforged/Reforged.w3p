@@ -1,6 +1,6 @@
 [Campaign]
 Difficulty=1
-DifficultyClears=85,9700677,0,0,0,0,0,0,0
+DifficultyClears=85,9700677,2,0,0,0,0,0,0
 HasProgress=1
 Human=-1441151880758554625
 HumanEx=576460752303423488
@@ -11,9 +11,9 @@ OrcEx=576460752303423488
 ShowScreen=2
 Tutorial=-3746994889972252641
 TutorialCleared=0
-Undead=-8646911284551352319
+Undead=-8646911284551352317
 UndeadEx=576460752303423488
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=243015773
+Magic=894830579
 

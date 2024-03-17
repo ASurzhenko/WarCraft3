@@ -1,193 +1,371 @@
-3/17 11:14:08.843  GameMain Started
-3/17 11:14:08.843  Command Line: "_retail_\x86_64\Warcraft III.exe" -launch
-3/17 11:14:08.843  Current Directory: "D:\Games\Warcraft III Reforged\_retail_"
-3/17 11:14:09.778  prism: Info: name: Radeon RX 580 Series
-3/17 11:14:09.778  prism: Info: driverVersion: 0x000000002efb2329
-3/17 11:14:09.778  prism: Info: vendorId: AMD
-3/17 11:14:09.778  prism: Info: deviceId: 0x67df
-3/17 11:14:09.778  prism: Info: subsystemVendorId: 0x1682
-3/17 11:14:09.778  prism: Info: subsystemId: 0xc580
-3/17 11:14:09.778  prism: Info: revisionId: 0xe7
-3/17 11:14:09.778  prism: Info: type: Discrete
-3/17 11:14:09.778  prism: Info: luid: 000000000000d19b
-3/17 11:14:09.778  prism: Info: index: 0
-3/17 11:14:09.778  prism: Info: api: Dx11
-3/17 11:14:09.778  prism: Info: vendorId: AMD
-3/17 11:14:09.778  prism: Info: deviceId: 0x67df
-3/17 11:14:09.778  prism: Info: amd.family: GCN3
-3/17 11:14:09.778  prism: Info: amd.numCUs: 0
-3/17 11:14:09.778  prism: Info: amd.numWGPs: 0
-3/17 11:14:09.778  prism: Info: amd.numROPs: 0
-3/17 11:14:09.778  prism: Info: amd.coreClock: 0 MHz
-3/17 11:14:09.778  prism: Info: amd.memoryClock: 0 MHz
-3/17 11:14:09.778  prism: Info: amd.memoryBandwidth: 0 MB/s
-3/17 11:14:09.778  prism: Info: amd.teraFlops: 0
-3/17 11:14:09.778  prism: Info: amd.driverVersion: Unknown
-3/17 11:14:09.778  prism: Info: amd.radeonSoftwareVersion: Unknown
-3/17 11:14:09.778  prism: Info: windowsVersion: 10
-3/17 11:14:09.778  prism: Info: windowsBuildNumber: 19045
-3/17 11:14:09.778  prism: Info: dxFeatureLevel: 11.1
-3/17 11:14:09.778  prism: Info: typedUavLoadAdditionalFormats: 1
-3/17 11:14:09.778  prism: Info: preferredShaderModel: Dx50
-3/17 11:14:09.778  prism: Info: supportedShaderModels:
-3/17 11:14:09.778  prism: Info:   Dx40Level91
-3/17 11:14:09.778  prism: Info:   Dx40Level93
-3/17 11:14:09.778  prism: Info:   Dx40
-3/17 11:14:09.778  prism: Info:   Dx41
-3/17 11:14:09.778  prism: Info:   Dx50
-3/17 11:14:09.778  prism: Info: maxBufferSize: 2141192192
-3/17 11:14:09.778  prism: Info: max1dTextureSize: 16384
-3/17 11:14:09.778  prism: Info: max2dTextureSize: 16384
-3/17 11:14:09.778  prism: Info: maxCubeTextureSize: 16384
-3/17 11:14:09.778  prism: Info: max3dTextureSize: 2048
-3/17 11:14:09.778  prism: Info: maxArrayLayers: 2048
-3/17 11:14:09.778  prism: Info: maxConstantBufferRange: 65536
-3/17 11:14:09.778  prism: Info: maxTypedBufferRange: 2141192192
-3/17 11:14:09.778  prism: Info: maxStructuredBufferRange: 2141192192
-3/17 11:14:09.778  prism: Info: constantBufferOffsetAlign: 256
-3/17 11:14:09.778  prism: Info: typedBufferOffsetAlign: 16
-3/17 11:14:09.778  prism: Info: structuredBufferOffsetAlign: 16
-3/17 11:14:09.778  prism: Info: drawIndirectArgsAlign: 4
-3/17 11:14:09.778  prism: Info: dispatchIndirectArgsAlign: 4
-3/17 11:14:09.778  prism: Info: bufferTextureCopyRowPitchAlign: 256
-3/17 11:14:09.778  prism: Info: bufferTextureCopyOffsetAlign: 1024
-3/17 11:14:09.778  prism: Info: maxAnisotropy: 16
-3/17 11:14:09.778  prism: Info: maxColorAttachments: 8
-3/17 11:14:09.778  prism: Info: maxVertexShaderAttributes: 32
-3/17 11:14:09.778  prism: Info: maxViewportExtent: 65535x65535
-3/17 11:14:09.778  prism: Info: minViewportBounds: -32768
-3/17 11:14:09.778  prism: Info: maxViewportBounds: 32767
-3/17 11:14:09.778  prism: Info: minLodBias: -16
-3/17 11:14:09.778  prism: Info: maxLodBias: 15.99
-3/17 11:14:09.778  prism: Info: maxLodSnap: 0
-3/17 11:14:09.778  prism: Info: shaderRWTier: 5
-3/17 11:14:09.778  prism: Info: resourceBindingTier: 0
-3/17 11:14:09.778  prism: Info: resourceHeapTier: 0
-3/17 11:14:09.778  prism: Info: raytracingTier: 0
-3/17 11:14:09.778  prism: Info: minMaxFilterOps: 1
-3/17 11:14:09.778  prism: Info: mirrorOnce: 1
-3/17 11:14:09.778  prism: Info: borderColor: 1
-3/17 11:14:09.778  prism: Info: minLod: 1
-3/17 11:14:09.778  prism: Info: maxLod: 1
-3/17 11:14:09.778  prism: Info: fractionalMinLod: 1
-3/17 11:14:09.778  prism: Info: lodBias: 1
-3/17 11:14:09.778  prism: Info: dualSrcBlend: 1
-3/17 11:14:09.778  prism: Info: separateAlphaBlend: 1
-3/17 11:14:09.778  prism: Info: alphaToCoverage: 1
-3/17 11:14:09.778  prism: Info: independentBlend: 1
-3/17 11:14:09.778  prism: Info: wireframe: 1
-3/17 11:14:09.778  prism: Info: depthBiasClamp: 1
-3/17 11:14:09.778  prism: Info: depthClamp: 1
-3/17 11:14:09.778  prism: Info: depthBoundsTest: 0
-3/17 11:14:09.778  prism: Info: geometryShader: 1
-3/17 11:14:09.778  prism: Info: tessellationShader: 1
-3/17 11:14:09.778  prism: Info: computeShader: 1
-3/17 11:14:09.778  prism: Info: programmableSamplePositions: 0
-3/17 11:14:09.778  prism: Info: instancing: 1
-3/17 11:14:09.778  prism: Info: baseVertex: 1
-3/17 11:14:09.778  prism: Info: baseInstance: 1
-3/17 11:14:09.778  prism: Info: drawIndirect: 1
-3/17 11:14:09.778  prism: Info: drawIndirectBaseInstance: 1
-3/17 11:14:09.778  prism: Info: deviceLocalConstantBufferOffsets: 1
-3/17 11:14:09.778  prism: Info: occlusionQueries: 1
-3/17 11:14:09.778  prism: Info: countingOcclusionQueries: 1
-3/17 11:14:09.778  prism: Info: rasterOrderViews: 0
-3/17 11:14:09.778  prism: Info: exclusiveFullscreen: 1
-3/17 11:14:09.778  prism: Info: uma: 0
-3/17 11:14:09.986  Searching for display mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 60 }, err: 6619198
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 75 }, err: 6620158
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 60 }, err: 4980798
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 75 }, err: 4981758
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1128, height: 634, bpp: 32, refreshrate: 60 }, err: 5111870
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1128, height: 634, bpp: 32, refreshrate: 75 }, err: 5112830
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 60 }, err: 4063294
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 75 }, err: 4064254
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 50 }, err: 4129470
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 60 }, err: 4128830
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1366, height: 768, bpp: 32, refreshrate: 60 }, err: 3604542
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1600, height: 900, bpp: 32, refreshrate: 60 }, err: 2097214
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 50 }, err: 1114814
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 60 }, err: 1114174
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1760, height: 990, bpp: 32, refreshrate: 50 }, err: 1049278
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1760, height: 990, bpp: 32, refreshrate: 60 }, err: 1048638
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 25 }, err: 2302
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 30 }, err: 1982
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 50 }, err: 702
-3/17 11:14:09.998  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }, err: 62
-3/17 11:14:11.200  Error (UI\FrameDef\UI\CommandBar.fdf:66): Expected ",", but found "}"
-3/17 11:14:12.164  Opening map - Maps/(10)dustwallowkeys.w3m
-3/17 11:14:12.164  Opening map - Maps/(12)divideandconquer.w3m
-3/17 11:14:12.167  Opening map - Maps/(12)icecrown.w3m
-3/17 11:14:12.167  Opening map - Maps/(2)bootybay.w3m
-3/17 11:14:12.167  Opening map - Maps/(2)harrow.w3m
-3/17 11:14:12.167  Opening map - Maps/(2)hillsofglory.w3m
-3/17 11:14:12.167  Opening map - Maps/(2)ogremound.w3m
-3/17 11:14:12.167  Opening map - Maps/(2)plunderisle.w3m
-3/17 11:14:12.167  Opening map - Maps/(3)forestwalk.w3m
-3/17 11:14:12.167  Opening map - Maps/(3)isleofdread.w3m
-3/17 11:14:12.167  Opening map - Maps/(3)nighthaven.w3m
-3/17 11:14:12.167  Opening map - Maps/(4)adrenaline.w3m
-3/17 11:14:12.167  Opening map - Maps/(4)borderlands.w3m
-3/17 11:14:12.167  Opening map - Maps/(4)deadlock.w3m
-3/17 11:14:12.167  Opening map - Maps/(4)deadwaterdrop.w3m
-3/17 11:14:12.167  Opening map - Maps/(4)dragonmountain.w3m
-3/17 11:14:12.167  Opening map - Maps/(4)duskwood.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)frostsabre.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)harvestmoon.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)hearttoheart.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)legends.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)losttemple.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)mysticisles.w3m
-3/17 11:14:12.183  Opening map - Maps/(4)tranquilpaths.w3m
-3/17 11:14:12.183  Opening map - Maps/(5)theglaive.w3m
-3/17 11:14:12.183  Opening map - Maps/(6)darkforest.w3m
-3/17 11:14:12.183  Opening map - Maps/(6)dragonfire.w3m
-3/17 11:14:12.183  Opening map - Maps/(6)drywatergulch.w3m
-3/17 11:14:12.183  Opening map - Maps/(6)gnollwood.w3m
-3/17 11:14:12.183  Opening map - Maps/(6)moonglade.w3m
-3/17 11:14:12.199  Opening map - Maps/(6)scorchedbasin.w3m
-3/17 11:14:12.199  Opening map - Maps/(6)stromguarde.w3m
-3/17 11:14:12.199  Opening map - Maps/(6)swampofsorrows.w3m
-3/17 11:14:12.199  Opening map - Maps/(6)timbermawhold.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)battleground.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)blastedlands.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)bloodvenomfalls.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)gardenofwar.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)golemsinthemist.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)petrifiedforest.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)plaguelands.w3m
-3/17 11:14:12.199  Opening map - Maps/(8)plainsofsnow.w3m
-3/17 11:14:12.213  Opening map - Maps/(8)richmansgarden.w3m
-3/17 11:14:12.213  Opening map - Maps/(8)thecrucible.w3m
-3/17 11:14:12.213  Opening map - Maps/(9)riverrun.w3m
-3/17 11:14:12.286  Activating WebUI
-3/17 11:14:16.673  Activating WebUI
-3/17 11:14:31.765  Activating WebUI
-3/17 11:14:32.403  Activating WebUI
-3/17 11:15:49.133  Activating WebUI
-3/17 11:15:49.133  Activating WebUI
-3/17 11:16:27.395  Opening map - Campaign/Reforged/ROC/Human09.w3x
-3/17 11:16:28.612  Opening map - Campaign/Reforged/ROC/Human09.w3x
-3/17 11:16:29.121  Activating WebUI
-3/17 11:16:29.196  Activating WebUI
-3/17 11:16:29.199  Opening map - Campaign/Reforged/ROC/Human09.w3x
-3/17 11:17:17.696  Deactivating WebUI
-3/17 11:17:17.718  Deactivating WebUI
-3/17 11:28:55.249  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:29:10.842  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:29:23.593  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:29:28.614  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:29:34.668  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:29:55.564  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:30:03.087  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:30:13.338  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:30:23.814  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:47:49.439  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:48:25.215  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:48:35.763  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:48:57.461  WARNERIN: PolySmoothModifier applied on property with non-zero velocity, old velocity will be ignored during this modification!
-3/17 11:49:35.675  Activating WebUI
-3/17 11:49:37.507  Activating WebUI
-3/17 11:49:37.507  Activating WebUI
-3/17 11:49:51.467  GameMain Ended
+3/17 12:16:19.442  GameMain Started
+3/17 12:16:19.442  Command Line: "_retail_\x86_64\Warcraft III.exe" -launch
+3/17 12:16:19.442  Current Directory: "D:\Games\Warcraft III Reforged\_retail_"
+3/17 12:16:20.516  prism: Info: name: NVIDIA GeForce GTX 1650
+3/17 12:16:20.516  prism: Info: driverVersion: 0x00000000000f1212
+3/17 12:16:20.516  prism: Info: vendorId: NVidia
+3/17 12:16:20.516  prism: Info: deviceId: 0x1f9d
+3/17 12:16:20.516  prism: Info: subsystemVendorId: 0x103c
+3/17 12:16:20.516  prism: Info: subsystemId: 0x88fa
+3/17 12:16:20.516  prism: Info: revisionId: 0xa1
+3/17 12:16:20.516  prism: Info: type: Discrete
+3/17 12:16:20.516  prism: Info: luid: 000000000001425d
+3/17 12:16:20.516  prism: Info: index: 0
+3/17 12:16:20.516  prism: Info: api: Dx11
+3/17 12:16:20.516  prism: Info: vendorId: NVidia
+3/17 12:16:20.516  prism: Info: deviceId: 0x1f9d
+3/17 12:16:20.516  prism: Info: nvidia.family: Turing
+3/17 12:16:20.516  prism: Info: nvidia.driverVersion: 546.26
+3/17 12:16:20.516  prism: Info: windowsVersion: 10
+3/17 12:16:20.516  prism: Info: windowsBuildNumber: 22631
+3/17 12:16:20.516  prism: Info: dxFeatureLevel: 11.1
+3/17 12:16:20.516  prism: Info: typedUavLoadAdditionalFormats: 1
+3/17 12:16:20.516  prism: Info: preferredShaderModel: Dx50
+3/17 12:16:20.516  prism: Info: supportedShaderModels:
+3/17 12:16:20.516  prism: Info:   Dx40Level91
+3/17 12:16:20.516  prism: Info:   Dx40Level93
+3/17 12:16:20.516  prism: Info:   Dx40
+3/17 12:16:20.516  prism: Info:   Dx41
+3/17 12:16:20.516  prism: Info:   Dx50
+3/17 12:16:20.516  prism: Info: maxBufferSize: 1034944512
+3/17 12:16:20.516  prism: Info: max1dTextureSize: 16384
+3/17 12:16:20.516  prism: Info: max2dTextureSize: 16384
+3/17 12:16:20.516  prism: Info: maxCubeTextureSize: 16384
+3/17 12:16:20.516  prism: Info: max3dTextureSize: 2048
+3/17 12:16:20.516  prism: Info: maxArrayLayers: 2048
+3/17 12:16:20.516  prism: Info: maxConstantBufferRange: 65536
+3/17 12:16:20.516  prism: Info: maxTypedBufferRange: 1034944512
+3/17 12:16:20.516  prism: Info: maxStructuredBufferRange: 1034944512
+3/17 12:16:20.516  prism: Info: constantBufferOffsetAlign: 256
+3/17 12:16:20.516  prism: Info: typedBufferOffsetAlign: 16
+3/17 12:16:20.516  prism: Info: structuredBufferOffsetAlign: 16
+3/17 12:16:20.516  prism: Info: drawIndirectArgsAlign: 4
+3/17 12:16:20.516  prism: Info: dispatchIndirectArgsAlign: 4
+3/17 12:16:20.516  prism: Info: bufferTextureCopyRowPitchAlign: 256
+3/17 12:16:20.516  prism: Info: bufferTextureCopyOffsetAlign: 1024
+3/17 12:16:20.516  prism: Info: maxAnisotropy: 16
+3/17 12:16:20.516  prism: Info: maxColorAttachments: 8
+3/17 12:16:20.516  prism: Info: maxVertexShaderAttributes: 32
+3/17 12:16:20.516  prism: Info: maxViewportExtent: 65535x65535
+3/17 12:16:20.516  prism: Info: minViewportBounds: -32768
+3/17 12:16:20.516  prism: Info: maxViewportBounds: 32767
+3/17 12:16:20.516  prism: Info: minLodBias: -16
+3/17 12:16:20.516  prism: Info: maxLodBias: 15.99
+3/17 12:16:20.516  prism: Info: maxLodSnap: 0
+3/17 12:16:20.516  prism: Info: shaderRWTier: 5
+3/17 12:16:20.516  prism: Info: resourceBindingTier: 0
+3/17 12:16:20.516  prism: Info: resourceHeapTier: 0
+3/17 12:16:20.516  prism: Info: raytracingTier: 0
+3/17 12:16:20.516  prism: Info: minMaxFilterOps: 1
+3/17 12:16:20.516  prism: Info: mirrorOnce: 1
+3/17 12:16:20.516  prism: Info: borderColor: 1
+3/17 12:16:20.516  prism: Info: minLod: 1
+3/17 12:16:20.516  prism: Info: maxLod: 1
+3/17 12:16:20.516  prism: Info: fractionalMinLod: 1
+3/17 12:16:20.516  prism: Info: lodBias: 1
+3/17 12:16:20.516  prism: Info: dualSrcBlend: 1
+3/17 12:16:20.516  prism: Info: separateAlphaBlend: 1
+3/17 12:16:20.516  prism: Info: alphaToCoverage: 1
+3/17 12:16:20.516  prism: Info: independentBlend: 1
+3/17 12:16:20.516  prism: Info: wireframe: 1
+3/17 12:16:20.516  prism: Info: depthBiasClamp: 1
+3/17 12:16:20.516  prism: Info: depthClamp: 1
+3/17 12:16:20.516  prism: Info: depthBoundsTest: 1
+3/17 12:16:20.516  prism: Info: geometryShader: 1
+3/17 12:16:20.516  prism: Info: tessellationShader: 1
+3/17 12:16:20.516  prism: Info: computeShader: 1
+3/17 12:16:20.516  prism: Info: programmableSamplePositions: 0
+3/17 12:16:20.516  prism: Info: instancing: 1
+3/17 12:16:20.516  prism: Info: baseVertex: 1
+3/17 12:16:20.516  prism: Info: baseInstance: 1
+3/17 12:16:20.516  prism: Info: drawIndirect: 1
+3/17 12:16:20.516  prism: Info: drawIndirectBaseInstance: 1
+3/17 12:16:20.516  prism: Info: deviceLocalConstantBufferOffsets: 1
+3/17 12:16:20.516  prism: Info: occlusionQueries: 1
+3/17 12:16:20.516  prism: Info: countingOcclusionQueries: 1
+3/17 12:16:20.516  prism: Info: rasterOrderViews: 1
+3/17 12:16:20.516  prism: Info: exclusiveFullscreen: 1
+3/17 12:16:20.516  prism: Info: uma: 0
+3/17 12:16:20.752  Searching for display mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 40 }, err: 6620478
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 800, height: 600, bpp: 32, refreshrate: 60 }, err: 6619198
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 40 }, err: 4982078
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1024, height: 768, bpp: 32, refreshrate: 60 }, err: 4980798
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 40 }, err: 4064574
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1152, height: 864, bpp: 32, refreshrate: 60 }, err: 4063294
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 600, bpp: 32, refreshrate: 40 }, err: 4654398
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 600, bpp: 32, refreshrate: 60 }, err: 4653118
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 40 }, err: 4130110
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 720, bpp: 32, refreshrate: 60 }, err: 4128830
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 768, bpp: 32, refreshrate: 40 }, err: 3933502
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 768, bpp: 32, refreshrate: 60 }, err: 3932222
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 800, bpp: 32, refreshrate: 40 }, err: 3802430
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 800, bpp: 32, refreshrate: 60 }, err: 3801150
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 960, bpp: 32, refreshrate: 40 }, err: 3147070
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1280, height: 960, bpp: 32, refreshrate: 60 }, err: 3145790
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1360, height: 768, bpp: 32, refreshrate: 40 }, err: 3605822
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1360, height: 768, bpp: 32, refreshrate: 60 }, err: 3604542
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1366, height: 768, bpp: 32, refreshrate: 40 }, err: 3605822
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1366, height: 768, bpp: 32, refreshrate: 60 }, err: 3604542
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1400, height: 1050, bpp: 32, refreshrate: 40 }, err: 2295102
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1400, height: 1050, bpp: 32, refreshrate: 60 }, err: 2293822
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1440, height: 900, bpp: 32, refreshrate: 40 }, err: 2753854
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1440, height: 900, bpp: 32, refreshrate: 60 }, err: 2752574
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1600, height: 900, bpp: 32, refreshrate: 40 }, err: 2098494
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1600, height: 900, bpp: 32, refreshrate: 60 }, err: 2097214
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 40 }, err: 1115454
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1680, height: 1050, bpp: 32, refreshrate: 60 }, err: 1114174
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 40 }, err: 1342
+3/17 12:16:20.758  Testing Display Mode: { display: 0, width: 1920, height: 1080, bpp: 32, refreshrate: 60 }, err: 62
+3/17 12:16:21.069  Error (UI\FrameDef\UI\CommandBar.fdf:66): Expected ",", but found "}"
+3/17 12:16:22.267  Opening map - Maps/(10)dustwallowkeys.w3m
+3/17 12:16:22.267  Opening map - Maps/(12)divideandconquer.w3m
+3/17 12:16:22.271  Opening map - Maps/(12)icecrown.w3m
+3/17 12:16:22.271  Opening map - Maps/(2)bootybay.w3m
+3/17 12:16:22.271  Opening map - Maps/(2)harrow.w3m
+3/17 12:16:22.271  Opening map - Maps/(2)hillsofglory.w3m
+3/17 12:16:22.271  Opening map - Maps/(2)ogremound.w3m
+3/17 12:16:22.271  Opening map - Maps/(2)plunderisle.w3m
+3/17 12:16:22.271  Opening map - Maps/(3)forestwalk.w3m
+3/17 12:16:22.271  Opening map - Maps/(3)isleofdread.w3m
+3/17 12:16:22.271  Opening map - Maps/(3)nighthaven.w3m
+3/17 12:16:22.271  Opening map - Maps/(4)adrenaline.w3m
+3/17 12:16:22.271  Opening map - Maps/(4)borderlands.w3m
+3/17 12:16:22.271  Opening map - Maps/(4)deadlock.w3m
+3/17 12:16:22.271  Opening map - Maps/(4)deadwaterdrop.w3m
+3/17 12:16:22.271  Opening map - Maps/(4)dragonmountain.w3m
+3/17 12:16:22.271  Opening map - Maps/(4)duskwood.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)frostsabre.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)harvestmoon.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)hearttoheart.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)legends.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)losttemple.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)mysticisles.w3m
+3/17 12:16:22.286  Opening map - Maps/(4)tranquilpaths.w3m
+3/17 12:16:22.286  Opening map - Maps/(5)theglaive.w3m
+3/17 12:16:22.286  Opening map - Maps/(6)darkforest.w3m
+3/17 12:16:22.286  Opening map - Maps/(6)dragonfire.w3m
+3/17 12:16:22.286  Opening map - Maps/(6)drywatergulch.w3m
+3/17 12:16:22.286  Opening map - Maps/(6)gnollwood.w3m
+3/17 12:16:22.286  Opening map - Maps/(6)moonglade.w3m
+3/17 12:16:22.302  Opening map - Maps/(6)scorchedbasin.w3m
+3/17 12:16:22.302  Opening map - Maps/(6)stromguarde.w3m
+3/17 12:16:22.302  Opening map - Maps/(6)swampofsorrows.w3m
+3/17 12:16:22.302  Opening map - Maps/(6)timbermawhold.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)battleground.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)blastedlands.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)bloodvenomfalls.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)gardenofwar.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)golemsinthemist.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)petrifiedforest.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)plaguelands.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)plainsofsnow.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)richmansgarden.w3m
+3/17 12:16:22.302  Opening map - Maps/(8)thecrucible.w3m
+3/17 12:16:22.318  Opening map - Maps/(9)riverrun.w3m
+3/17 12:16:22.395  Activating WebUI
+3/17 12:16:26.949  Activating WebUI
+3/17 12:16:31.766  Activating WebUI
+3/17 12:16:32.377  Activating WebUI
+3/17 12:17:10.166  Opening map - Campaign/Reforged/ROC/Undead01.w3x
+3/17 12:17:10.665  Opening map - Campaign/Reforged/ROC/Undead01.w3x
+3/17 12:17:10.881  Activating WebUI
+3/17 12:17:10.965  Activating WebUI
+3/17 12:17:10.965  Opening map - Campaign/Reforged/ROC/Undead01.w3x
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0050.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0051.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0052.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0053.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0054.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0055.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0056.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0057.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0058.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0059.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0060.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0061.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0062.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0063.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0064.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0065.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0066.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0067.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0068.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0069.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0070.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0071.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0072.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0073.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0074.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0075.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0076.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0077.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0078.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0079.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0080.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0081.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0082.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0083.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0084.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0085.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0086.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0087.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0088.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0089.tif
+3/17 12:17:16.360  Solid texture substituted - Textures/Water/War3_FountainWater_0050_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0051_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0052_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0053_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0054_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0055_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0056_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0057_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0058_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0059_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0060_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0061_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0062_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0063_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0064_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0065_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0066_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0067_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0068_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0069_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0070_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0071_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0072_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0073_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0074_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0075_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0076_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0077_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0078_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0079_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0080_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0081_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0082_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0083_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0084_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0085_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0086_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0087_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0088_Normal.tif
+3/17 12:17:16.364  Solid texture substituted - Textures/Water/War3_FountainWater_0089_Normal.tif
+3/17 12:17:23.633  Deactivating WebUI
+3/17 12:17:23.662  Deactivating WebUI
+3/17 12:18:01.005  Web UI is trying to show when the Game UI is active
+3/17 12:18:01.005  Deactivating WebUI
+3/17 12:18:01.005  Web UI is trying to show when the Game UI is active
+3/17 12:18:01.005  Deactivating WebUI
+3/17 12:31:45.434  Opening map - Campaign/Reforged/ROC/Undead01.w3x
+3/17 12:31:45.537  Activating WebUI
+3/17 12:31:45.551  Opening map - Campaign/Reforged/ROC/Undead01.w3x
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0050.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0051.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0052.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0053.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0054.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0055.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0056.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0057.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0058.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0059.tif
+3/17 12:31:52.160  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0060.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0061.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0062.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0063.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0064.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0065.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0066.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0067.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0068.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0069.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0070.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0071.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0072.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0073.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0074.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0075.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0076.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0077.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0078.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0079.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0080.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0081.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0082.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0083.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0084.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0085.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0086.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0087.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0088.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_Diff_0089.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0050_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0051_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0052_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0053_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0054_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0055_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0056_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0057_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0058_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0059_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0060_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0061_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0062_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0063_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0064_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0065_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0066_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0067_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0068_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0069_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0070_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0071_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0072_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0073_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0074_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0075_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0076_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0077_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0078_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0079_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0080_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0081_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0082_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0083_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0084_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0085_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0086_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0087_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0088_Normal.tif
+3/17 12:31:52.161  Solid texture substituted - Textures/Water/War3_FountainWater_0089_Normal.tif
+3/17 12:36:16.861  Deactivating WebUI
+3/17 12:36:16.907  Deactivating WebUI
+3/17 12:53:26.111  Activating WebUI
+3/17 12:53:26.111  Activating WebUI
+3/17 12:53:30.687  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.687  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.730  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.816  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.862  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.864  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.994  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:30.994  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:31.222  Activating WebUI
+3/17 12:53:31.238  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:32.974  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:34.347  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:53:40.395  Deactivating WebUI
+3/17 12:53:40.419  Deactivating WebUI
+3/17 12:55:36.299  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:56:42.308  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:57:20.314  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:58:03.536  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 12:58:57.583  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 13:00:55.788  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 13:01:53.062  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 13:02:26.731  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 13:03:37.261  Opening map - Campaign\Reforged\ROC\Undead02.w3x
+3/17 13:03:42.394  GameMain Ended
